@@ -24,17 +24,8 @@ An e-commerce platform for online shopping, offering a wide range of products fr
 
 ## Demo
 
-- [Live Demo](https://main--e-commerce-prakash.netlify.app/)
+- [Live Demo](https://6693a7754b9eb42c34f31ba3--regal-meerkat-eac88a.netlify.app/)
 
-## Features
-
-- User Registration and Authentication
-- Product Browsing and Search
-- Shopping Cart and Wishlist
-- Order Placement and Tracking
-- Payment Gateway Integration
-- User Reviews and Ratings
-- Admin Dashboard for Inventory and Order Management
 
 ## Screenshots
 
