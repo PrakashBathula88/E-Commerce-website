@@ -1,13 +1,11 @@
 <div style="background-color🍏; padding: 20px;">
-# E-Commerce Website
+# Fyle Assignment Website
 
 ## Tech Stack
 
 <div >
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100" height="35" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="35" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" height="35" alt="Redux"/>
 </div>
 
 ## Table of Contents
@@ -20,7 +18,7 @@
 
 ## Description
 
-An e-commerce platform for online shopping, offering a wide range of products from various categories with secure payment options and user-friendly interfaces.
+An Fyle Assignment platform for online shopping, offering a wide range of products from various categories with secure payment options and user-friendly interfaces.
 
 ## Demo
 
